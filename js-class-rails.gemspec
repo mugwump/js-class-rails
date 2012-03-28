@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Stefan Frank"]
   s.email       = ["s.frank@vierundsechzig.de"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Packages the JS.Class-files}
+  s.description = %q{contains all the basic JS.Class-files packaged for the Rails3.2+-Asset-pipeline}
 
   s.rubyforge_project = "js-class-rails"
 
